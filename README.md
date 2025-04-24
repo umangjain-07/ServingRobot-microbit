@@ -49,16 +49,12 @@ Developed with the [`RoboticsWorkshop`](https://github.com/gigotoys/RoboticsWork
 
 ---
 
-## 🖼️ Media
 
-> *[Optional]* Add demo GIFs, circuit diagrams, or YouTube walkthrough here.
-
----
 
 ## 👤 Author
 
 **Umang Jain**  
 Smart Robotics & Embedded Systems Enthusiast  
-[GitHub](https://github.com/your-username) | [LinkedIn](https://linkedin.com/in/your-profile)
+[GitHub](https://github.com/umangjain-07/) | [LinkedIn](https://www.linkedin.com/in/umangjain07/)
 
 ---
